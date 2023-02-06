@@ -1,14 +1,17 @@
 # ExoMy - Documentation Repository
 This repository contains all the files of the documentation of ExoMy. Click on [*Releases*](https://github.com/esa-prl/ExoMy/releases) and download the files of the latest release.
 The release file contains the 3D files (STL, SLDPRT & STEP), circuit diagrams, part lists, etc. to build your own ExoMy.
-The building process and the files are explained further in the [wiki](https://github.com/esa-prl/ExoMy/wiki).
+The building process and the files are explained further in the [wiki](https://github.com/0xD0M1M0/ExoMy/wiki).
 
+This repository is the successor of the official ExoMy project by ESA. This comes after many talks with the ESA-Team at ESTEC and their limit ability to support the project in the future.
+
+So feel free to submit your issues and pull requests here. I will try my best to continue supporting this project and release updates and fixes.
 
 # ExoMy Project Structure
 Overview of other parts of the ExoMy project.
 
-### [Wiki](https://github.com/esa-prl/ExoMy/wiki)
-The [wiki](https://github.com/esa-prl/ExoMy/wiki) contains step by step instructions on how the 3D-printed rover ExoMy can be built, controlled and customized.  
+### [Wiki](https://github.com/0xD0M1M0/ExoMy/wiki)
+The [wiki](https://github.com/0xD0M1M0/ExoMy/wiki) contains step by step instructions on how the 3D-printed rover ExoMy can be built, controlled and customized.  
 
 <!-- ### [Documentation Repository](https://github.com/esa-prl/ExoMy)
 This repository contains all the files of the documentation of ExoMy. Just click on [*Releases*](https://github.com/esa-prl/ExoMy/releases) and download the files of the latest release. They are explained further in the [wiki](https://github.com/esa-prl/ExoMy/wiki). -->
@@ -16,8 +19,8 @@ This repository contains all the files of the documentation of ExoMy. Just click
 ### [Website](https://esa-prl.github.io/ExoMy/)
 There is a website about ExoMy. It does not help you build it, but is still nice to look at.
 
-### [Software Repository](https://github.com/esa-prl/ExoMy_Software)
-This repository contains the software to run Exomy. The [wiki](https://github.com/esa-prl/ExoMy/wiki) explains you how to use it.
+### [Software Repository](https://github.com/0xD0M1M0/ExoMy_Software)
+This repository contains the software to run Exomy. The [wiki](https://github.com/0xD0M1M0/ExoMy/wiki) explains you how to use it.
 
 
 ### Social Media
@@ -38,7 +41,7 @@ This repository contains the software to run Exomy. The [wiki](https://github.co
     <a href="https://www.instagram.com/exomy_rover/"> @ExoMy_Rover</a>
 </p>
 
-![ExoMy image](https://github.com/esa-prl/ExoMy/wiki/images/renderings/2020_02_25.JPG)
+![ExoMy image](https://github.com/0xD0M1M0/ExoMy/wiki/images/renderings/2020_02_25.JPG)
 
 ### Publications
 
@@ -59,7 +62,7 @@ If you use this work in an academic context, please cite the following publicati
 
 ExoMy was developed in the Planetary Robotics Laboratory of the European Space Agency.
 
-The current team developing and maintaining ExoMy consists of Maximilian Ehrhardt, Miro Voellmy and Lorenzo Cervantes.
+The team developing and maintaining ExoMy consisted of Maximilian Ehrhardt, Miro Voellmy and Lorenzo Cervantes.
 
 ![ExoMy Generations](https://github.com/esa-prl/ExoMy/wiki/images/beauty_shots/edu_assembly/DSC05720.jpg)
 
